@@ -21,12 +21,12 @@
 
 ### list view
 
-| keys        | action                                                |
-| ----------- | ----------------------------------------------------- |
-| `q`         | add tasks quickly                                     |
-| `a`         | add  a new task at the bottom of list in project view |
-| `A`         | add a new task at the top of the list in project view |
-| `ctrl + f`` | focus search input box                                |
+| keys       | action                                                |
+| ---------- | ----------------------------------------------------- |
+| `q`        | add tasks quickly                                     |
+| `a`        | add  a new task at the bottom of list in project view |
+| `A`        | add a new task at the top of the list in project view |
+| `ctrl + f` | focus search input box                                |
 
 ### task view
 
