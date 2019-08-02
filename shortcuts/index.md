@@ -1,4 +1,7 @@
 ---
+title: ./shortcuts/index.md
+created_date: 2019/08/02 14:30
+
 ---
 # shortcuts/index.md
 

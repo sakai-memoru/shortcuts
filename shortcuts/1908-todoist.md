@@ -1,12 +1,11 @@
 ---
-title: 1908-todoist-shortcuts
-date: 2019/08/02 13:02
-file: 1908-todoist-shortcuts
+title: ./shortcuts/1908-todoist
+created_date: 2019/08/02 14:30
 
 ---
 [home](../)
 
-# 1908-todoist-shortcuts
+# ./shortcuts/1908-todoist-shortcuts
 
 ## overview
 
