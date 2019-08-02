@@ -4,9 +4,9 @@
 
 - write down to remember the tool’s shortcuts that I usually use.
 
-### lists
+### Pages
 
-- [todoist fof windows app](./shortcuts/1908-todoist.md)
+- https://sakai-memoru.github.io/shortcuts
 
 
 
