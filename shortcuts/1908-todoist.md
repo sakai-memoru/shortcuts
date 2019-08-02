@@ -1,8 +1,3 @@
----
-title: ./shortcuts/1908-todoist
-created_date: 2019/08/02 14:30
-
----
 [home](../)
 
 # ./shortcuts/1908-todoist-shortcuts

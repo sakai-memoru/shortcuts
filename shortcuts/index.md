@@ -1,8 +1,3 @@
----
-title: ./shortcuts/index.md
-created_date: 2019/08/02 14:30
-
----
 # shortcuts/index.md
 
 自分で利用している主要なデスクトップアプリケーションのShortcutsを、覚書として、記述する。
