@@ -1,6 +1,6 @@
-[home](../)
-
 # ./shortcuts/1908-todoist-shortcuts
+
+[home](../)
 
 ## overview
 
@@ -36,8 +36,6 @@
 | `alt+Shft+←`       | increase task indent            |
 | `alt+Shft+→`       | decrease task indent            |
 | `alt+Shft+↑↓`     | move task up or down            |
-
-
 
 
 // --- end of markdown --- //
