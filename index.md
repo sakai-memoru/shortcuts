@@ -5,7 +5,7 @@
 
 ### lists
 
-- [todoist fof windows app](./shortcuts/1908-todoist.md)
+- [todoist fof windows app](../shortcuts/1908-todoist.md)
 
 
 
